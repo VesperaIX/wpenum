@@ -5,7 +5,7 @@
 Wordpress User Enumeration
 
 # Instalation
-`$ git clone https://github.com/ZeroSaturnn/wpenum && cd wpenum`<br>
+`$ git clone https://github.com/VesperaIX/wpenum && cd wpenum`<br>
 `$ pip3 install requests argparse`
 
 # Usage
@@ -20,5 +20,5 @@ Regards,
 Zerosaturnn
 
 **Author:**
-- **Zerosaturnn**
-- **Discord: zerosaturn_**
+- **vesperaIX**
+- **Discord: VesperaIX**
